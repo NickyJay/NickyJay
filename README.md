@@ -1,4 +1,4 @@
-Hi, I’m Nic
+Hi, I’m Nic, a recent back-end development bootcamp graduate. 
 Currently learning Cloud Development by participating in the cloud resume challenge 
 
 
