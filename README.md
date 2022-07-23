@@ -3,6 +3,7 @@ Currently learning Cloud Development by participating in the cloud resume challe
 
 
 
-[![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicjay.py/)
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnsonbnicholas/)
+<a href='https://www.instagram.com/nicjay.py' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.linkedin.com/in/johnsonbnicholas/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=black&color=black'/></a>
+<a href='mailto:JohnsonB.Nicholas@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Contact_Me-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=black&color=black'/></a>
 <br />
